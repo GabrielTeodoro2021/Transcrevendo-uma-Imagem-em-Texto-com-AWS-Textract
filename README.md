@@ -3,19 +3,19 @@
 ## OCR Lista Escolar
 Projeto usado para exemplificar o uso do AWS Textract na extração de textos em imagens simples.
 
-## Pré requisitos
+## Pré requisitos:
  - Python
  - Uv
  - Conta AWS
 
-## Configuração do ambiente
+## Configuração do ambiente:
 É necessário configurar um usuário no IAM com acesso ao serviço Textract.
 
-## Instalação
+## Instalação:
 Para instalar as dependências do projeto utilize o comando:
  - uv install
 
-## Execução
+## Execução:
  - uv run main.py
 
 ## Funções e Ajustes:
